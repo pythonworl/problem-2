@@ -17,7 +17,13 @@ utils
 usercontroller
 userdetailsrequestmodel
 operationstatusmodel
+userrest
+
+INTERFACES:
+userrepository
+userservice
+
+ENUMS:
 requestoperationname
 requestoperationstatus
-userrest
 
